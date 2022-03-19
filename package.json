@@ -19,6 +19,13 @@
     "size": "size-limit",
     "analyze": "size-limit --why"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PedroFonseca17/element-border"
+  },
+  "bugs": {
+    "url": "https://github.com/PedroFonseca17/element-border/issues"
+  },
   "peerDependencies": {},
   "husky": {
     "hooks": {
@@ -31,7 +38,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@fonseca/element-border",
+  "name": "element-border",
   "author": "Pedro Fonseca",
   "module": "dist/image-border.esm.js",
   "size-limit": [
